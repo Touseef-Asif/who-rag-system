@@ -1,0 +1,4 @@
+from vectordb.create_collection import create_collection
+
+
+create_collection()
